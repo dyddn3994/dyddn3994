@@ -1,1 +1,1 @@
-![dyddn3994's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyddn3994&show_icons=true&theme=radical)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dyddn3994)](https://solved.ac/dyddn3994)
